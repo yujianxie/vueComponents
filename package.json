@@ -1,7 +1,7 @@
 {
-  "name": "vue-components",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "author": "yjxie",
   "private": true,
   "scripts": {
